@@ -34,7 +34,7 @@
 .knowme-background {
   margin:0;
   padding:0;
-  background-image: url('2.jpg');
+  background-image: url('back.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -207,7 +207,7 @@ button:hover {
 
 body {
   color: var(--white-color);
-  background-image: url('back.JPG');
+  background-image: url('back.jpg');
   background-size: cover;
 }
 
